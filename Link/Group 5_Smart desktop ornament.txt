@@ -1,0 +1,9 @@
+Tinkercad and Wokwi circuit:
+
+%Simulation for desktop ornament
+
+https://www.tinkercad.com/things/1IwB74rEleN-copy-of-mec202demo01/editel?sharecode=otirStnxbptPCjblfyf_WN0zVwEmkdT5wEPa1-Jicbw
+
+%Simulation for remote controller
+
+https://wokwi.com/projects/332089614566163026
